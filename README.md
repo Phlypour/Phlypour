@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Phlypour
 - 👀 I’m interested in re-branching from mainframe administration to coding
-- 🌱 I’m currently learning Python programming language
-- 💞️ I’m looking to collaborate on learning projects first (to be updated in the future) 
+- 🌱 I’m currently learning Python programming language, Git and SQL (PostgreSQL)
+- 💞️ I’m looking to collaborate on learning projects first (to be updated in future) 
 - 📫 How to reach me - by commenting on my projects 
 
 <!---
